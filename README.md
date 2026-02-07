@@ -75,11 +75,8 @@ Interests:  Computer Vision, LLMs, Quantitative Finance, DevOps
 
 | Project | Description |
 |---------|-------------|
-| [**Shellles**](https://github.com/K1ta141k/Shellles) | Web-based file manager for VMs — minimal SSH, fast transfers, built-in IDE |
 | [**mcp-bench-router**](https://github.com/K1ta141k/mcp-bench-router) | MCP server routing design tasks to top-ranked models via OpenRouter |
-| [**Dialexis**](https://github.com/K1ta141k/Dialexis) | AI-powered speed reading and text comprehension trainer |
-| [**EditronAI**](https://github.com/K1ta141k/EditronAI) | AI editing tool |
-| [**Backtesting-Engine**](https://github.com/K1ta141k/Backtesting-Engine) | Options trading backtesting engine |
+| [**moltshell.sh**](https://moltshell.sh) | Home for your CLI agents, managed from phone |
 
 ---
 
