@@ -26,7 +26,7 @@ Name:       Ali Bauyrzhan
 Location:   New York, NY
 Education:  BA Mathematics-Statistics @ Columbia University
 Research:   Research Assistant @ Columbia
-Incoming:   Summer SDE Intern @ Amazon (Ads)
+Incoming:   Summer SDE Intern @ Amazon
 ```
 
 ---
