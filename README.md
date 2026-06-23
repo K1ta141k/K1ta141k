@@ -82,17 +82,5 @@ Incoming:   Summer SDE Intern @ Amazon
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ali.baurzhan.2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/codren.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41)](https://codren.me)
 
-</div>
-
----
-
-<div align="center">
-
-```
-ali@columbia:~$ uptime
-up since aug 2020 • building something new right now
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=K1ta141k&color=00FF41&style=flat-square&label=profile+views)
 
 </div>
